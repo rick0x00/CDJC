@@ -1,2 +1,1 @@
-# CDJC
-Cascading 4017 Decada/Johnson Counter
+# Cascading 4017 Decada/Johnson Counter
