@@ -342,7 +342,7 @@ MR LOOP MODE(MRLMout)
 Text Notes 4850 900  2    50   ~ 0
 FB:1, NB:1, LB:1
 Text GLabel 5000 1500 2    50   Output ~ 0
-MRLMon
+MRLMout
 Wire Wire Line
 	5000 1500 4800 1500
 Wire Notes Line
@@ -364,7 +364,7 @@ NB_SW
 Text GLabel 6000 1700 0    50   Input ~ 0
 LB_SW
 Text GLabel 7500 1600 2    50   Output ~ 0
-ELMon
+ELMout
 $Comp
 L 74xx:74LS08 U?
 U 1 1 61622B3E
@@ -467,7 +467,7 @@ NB_SW
 Text GLabel 8600 1850 0    50   Input ~ 0
 LB_SW
 Text GLabel 9850 1750 2    50   Output ~ 0
-LBMon
+LBMout
 $Comp
 L 74xx:74LS32 U?
 U 1 1 616AA084
