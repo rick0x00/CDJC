@@ -788,7 +788,7 @@ U 1 1 618D26E6
 P 6200 7200
 F 0 "J4" H 6118 6875 50  0000 C CNN
 F 1 "POWER_OUT" H 6118 6966 50  0000 C CNN
-F 2 "Connector_PinSocket_2.00mm:PinSocket_1x03_P2.00mm_Horizontal" H 6200 7200 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal" H 6200 7200 50  0001 C CNN
 F 3 "~" H 6200 7200 50  0001 C CNN
 	1    6200 7200
 	-1   0    0    1   
@@ -878,7 +878,7 @@ U 1 1 6191B24D
 P 4050 7200
 F 0 "J1" H 3968 6775 50  0000 C CNN
 F 1 "COM_IN" H 3968 6866 50  0000 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x05_P2.00mm_Horizontal" H 4050 7200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal" H 4050 7200 50  0001 C CNN
 F 3 "~" H 4050 7200 50  0001 C CNN
 	1    4050 7200
 	-1   0    0    1   
@@ -889,7 +889,7 @@ U 1 1 6196A891
 P 4750 7200
 F 0 "J2" H 4668 6775 50  0000 C CNN
 F 1 "COM_OUT" H 4668 6866 50  0000 C CNN
-F 2 "Connector_PinSocket_2.00mm:PinSocket_1x05_P2.00mm_Horizontal" H 4750 7200 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Horizontal" H 4750 7200 50  0001 C CNN
 F 3 "~" H 4750 7200 50  0001 C CNN
 	1    4750 7200
 	-1   0    0    1   
@@ -913,7 +913,7 @@ U 1 1 619C2F15
 P 5550 7200
 F 0 "J3" H 5468 6875 50  0000 C CNN
 F 1 "POWER_IN" H 5468 6966 50  0000 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x03_P2.00mm_Horizontal" H 5550 7200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal" H 5550 7200 50  0001 C CNN
 F 3 "~" H 5550 7200 50  0001 C CNN
 	1    5550 7200
 	-1   0    0    1   
@@ -2369,7 +2369,7 @@ U 1 1 61F74D5B
 P 8400 4750
 F 0 "J5" H 8480 4742 50  0000 L CNN
 F 1 "BIT_OUT" H 8480 4651 50  0000 L CNN
-F 2 "Connector_PinSocket_2.00mm:PinSocket_1x08_P2.00mm_Horizontal" H 8400 4750 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Horizontal" H 8400 4750 50  0001 C CNN
 F 3 "~" H 8400 4750 50  0001 C CNN
 	1    8400 4750
 	1    0    0    -1  
