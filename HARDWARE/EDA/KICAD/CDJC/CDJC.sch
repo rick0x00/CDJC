@@ -1134,12 +1134,12 @@ $Comp
 L Device:R R9
 U 1 1 62F38E35
 P 3550 7200
-F 0 "R9" V 3450 7300 50  0000 L CNN
-F 1 "300K" V 3450 7000 50  0000 L CNN
+F 0 "R9" V 3650 7250 50  0000 L CNN
+F 1 "300K" V 3650 7000 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 3480 7200 50  0001 C CNN
 F 3 "~" H 3550 7200 50  0001 C CNN
 	1    3550 7200
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	3550 6950 3550 7050
@@ -1878,7 +1878,7 @@ U 1 1 651B7280
 P 8950 4850
 F 0 "R17" V 9050 4750 50  0000 L CNN
 F 1 "300K" V 8850 4750 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 8880 4850 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 8880 4850 50  0001 C CNN
 F 3 "~" H 8950 4850 50  0001 C CNN
 	1    8950 4850
 	-1   0    0    1   
@@ -1917,7 +1917,7 @@ U 1 1 658A02CC
 P 8600 5450
 F 0 "R15" V 8700 5450 50  0000 L CNN
 F 1 "150K" V 8500 5350 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 8530 5450 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 8530 5450 50  0001 C CNN
 F 3 "~" H 8600 5450 50  0001 C CNN
 	1    8600 5450
 	-1   0    0    1   
@@ -1938,7 +1938,7 @@ U 1 1 65184E6B
 P 8350 5300
 F 0 "R16" V 8450 5300 50  0000 L CNN
 F 1 "1K" V 8450 5150 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 8280 5300 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 8280 5300 50  0001 C CNN
 F 3 "~" H 8350 5300 50  0001 C CNN
 	1    8350 5300
 	0    1    1    0   
@@ -2021,12 +2021,12 @@ $Comp
 L 74xx:74LS08 U6
 U 4 1 625ABD98
 P 5950 5750
-F 0 "U6" H 6200 5700 50  0000 C CNN
-F 1 "74LS08" H 5950 5950 50  0000 C CNN
+F 0 "U6" H 6200 5800 50  0000 C CNN
+F 1 "74LS08" H 6200 5600 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 5950 5750 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 5950 5750 50  0001 C CNN
 	4    5950 5750
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L 74xx:74LS08 U6
@@ -2037,7 +2037,7 @@ F 1 "74LS08" H 4700 4750 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 4400 4650 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 4400 4650 50  0001 C CNN
 	2    4400 4650
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L 74xx:74LS08 U5
@@ -2160,7 +2160,7 @@ U 1 1 62E0CAAF
 P 10400 4450
 F 0 "D20" H 10400 4234 50  0000 C CNN
 F 1 "1N4148" H 10400 4325 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 10400 4275 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P2.54mm_Vertical_AnodeUp" H 10400 4275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10400 4450 50  0001 C CNN
 	1    10400 4450
 	-1   0    0    1   
@@ -2175,7 +2175,7 @@ U 1 1 62D9C45F
 P 9750 5950
 F 0 "D9" H 9750 5734 50  0000 C CNN
 F 1 "1N4148" H 9750 5825 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 9750 5775 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P2.54mm_Vertical_AnodeUp" H 9750 5775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9750 5950 50  0001 C CNN
 	1    9750 5950
 	-1   0    0    1   
@@ -2450,7 +2450,7 @@ U 1 1 61E0FF68
 P 7750 4350
 F 0 "D21" H 8000 4300 50  0000 C CNN
 F 1 "1N4148" H 7550 4300 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 7750 4175 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P2.54mm_Vertical_AnodeUp" H 7750 4175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 4350 50  0001 C CNN
 	1    7750 4350
 	-1   0    0    1   
