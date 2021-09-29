@@ -33,7 +33,7 @@ F 1 "300K" V 1600 1150 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 1430 1350 50  0001 C CNN
 F 3 "~" H 1500 1350 50  0001 C CNN
 	1    1500 1350
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R R2
@@ -44,7 +44,7 @@ F 1 "300K" V 1800 1150 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 1630 1350 50  0001 C CNN
 F 3 "~" H 1700 1350 50  0001 C CNN
 	1    1700 1350
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R R3
@@ -55,7 +55,7 @@ F 1 "300K" V 2000 1150 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 1830 1350 50  0001 C CNN
 F 3 "~" H 1900 1350 50  0001 C CNN
 	1    1900 1350
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	1500 1200 1500 1150
