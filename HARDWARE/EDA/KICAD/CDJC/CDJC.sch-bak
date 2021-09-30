@@ -960,23 +960,23 @@ $EndComp
 $Comp
 L 74xx:74LS04 U1
 U 3 1 61640801
-P 2200 6900
-F 0 "U1" H 2400 6800 50  0000 C CNN
-F 1 "74LS04" H 2400 7000 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 2200 6900 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS04" H 2200 6900 50  0001 C CNN
-	3    2200 6900
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS04 U1
-U 1 1 6163007D
 P 2200 5550
 F 0 "U1" H 2400 5450 50  0000 C CNN
 F 1 "74LS04" H 2400 5650 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 2200 5550 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74LS04" H 2200 5550 50  0001 C CNN
-	1    2200 5550
+	3    2200 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74LS04 U1
+U 1 1 6163007D
+P 2200 6900
+F 0 "U1" H 2400 6800 50  0000 C CNN
+F 1 "74LS04" H 2400 7000 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 2200 6900 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS04" H 2200 6900 50  0001 C CNN
+	1    2200 6900
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1490,17 +1490,6 @@ F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 1700 4750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74xx:74LS08 U3
-U 2 1 615E6CB5
-P 1700 6100
-F 0 "U3" H 1950 6000 50  0000 C CNN
-F 1 "74LS08" H 2000 6200 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 1700 6100 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 1700 6100 50  0001 C CNN
-	2    1700 6100
-	1    0    0    -1  
-$EndComp
-$Comp
 L 74xx:74LS08 U4
 U 2 1 61622B44
 P 2100 2850
@@ -1510,17 +1499,6 @@ F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 2100 2850 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 2100 2850 50  0001 C CNN
 	2    2100 2850
 	1    0    0    1   
-$EndComp
-$Comp
-L 74xx:74LS08 U3
-U 4 1 615394F6
-P 1700 7450
-F 0 "U3" H 1950 7350 50  0000 C CNN
-F 1 "74LS08" H 2000 7550 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 1700 7450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 1700 7450 50  0001 C CNN
-	4    1700 7450
-	1    0    0    -1  
 $EndComp
 $Comp
 L 74xx:74LS08 U4
@@ -1985,28 +1963,6 @@ Wire Wire Line
 	6350 4850 6350 4650
 Wire Wire Line
 	6250 4850 6350 4850
-$Comp
-L 74xx:74LS32 U8
-U 2 1 621E5A85
-P 5950 4450
-F 0 "U8" H 6200 4350 50  0000 C CNN
-F 1 "74LS32" H 6200 4550 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 5950 4450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS32" H 5950 4450 50  0001 C CNN
-	2    5950 4450
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS32 U8
-U 1 1 621DF56C
-P 4400 4250
-F 0 "U8" H 4650 4150 50  0000 C CNN
-F 1 "74LS32" H 4650 4350 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 4400 4250 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS32" H 4400 4250 50  0001 C CNN
-	1    4400 4250
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	7900 5150 8200 5150
 Wire Wire Line
@@ -2243,5 +2199,49 @@ F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 5950 5750 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 5950 5750 50  0001 C CNN
 	1    5950 5750
 	1    0    0    1   
+$EndComp
+$Comp
+L 74xx:74LS08 U3
+U 4 1 615394F6
+P 1700 7450
+F 0 "U3" H 1950 7350 50  0000 C CNN
+F 1 "74LS08" H 2000 7550 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 1700 7450 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 1700 7450 50  0001 C CNN
+	4    1700 7450
+	1    0    0    1   
+$EndComp
+$Comp
+L 74xx:74LS08 U3
+U 2 1 615E6CB5
+P 1700 6100
+F 0 "U3" H 1950 6000 50  0000 C CNN
+F 1 "74LS08" H 2000 6200 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 1700 6100 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 1700 6100 50  0001 C CNN
+	2    1700 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74LS32 U8
+U 1 1 621DF56C
+P 4400 4250
+F 0 "U8" H 4650 4150 50  0000 C CNN
+F 1 "74LS32" H 4650 4350 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 4400 4250 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS32" H 4400 4250 50  0001 C CNN
+	1    4400 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74LS32 U8
+U 2 1 621E5A85
+P 5950 4450
+F 0 "U8" H 6200 4350 50  0000 C CNN
+F 1 "74LS32" H 6200 4550 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 5950 4450 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS32" H 5950 4450 50  0001 C CNN
+	2    5950 4450
+	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
