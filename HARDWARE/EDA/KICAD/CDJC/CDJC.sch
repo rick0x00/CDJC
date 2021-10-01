@@ -359,7 +359,7 @@ F 1 "74LS32" H 1750 7000 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 1500 6900 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74LS32" H 1500 6900 50  0001 C CNN
 	2    1500 6900
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 Wire Wire Line
 	1050 5450 1200 5450
