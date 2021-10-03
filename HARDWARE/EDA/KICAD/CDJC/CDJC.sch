@@ -450,7 +450,7 @@ U 1 1 6173FD41
 P 3300 1350
 F 0 "R7" V 3400 1400 50  0000 L CNN
 F 1 "150K" V 3400 1150 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 3230 1350 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3230 1350 50  0001 C CNN
 F 3 "~" H 3300 1350 50  0001 C CNN
 	1    3300 1350
 	1    0    0    -1  
@@ -486,7 +486,7 @@ U 1 1 61788A29
 P 3600 1350
 F 0 "R10" V 3700 1400 50  0000 L CNN
 F 1 "150K" V 3700 1150 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 3530 1350 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3530 1350 50  0001 C CNN
 F 3 "~" H 3600 1350 50  0001 C CNN
 	1    3600 1350
 	1    0    0    -1  
@@ -512,7 +512,7 @@ U 1 1 6178CAA4
 P 3900 1350
 F 0 "R12" V 4000 1400 50  0000 L CNN
 F 1 "150K" V 4000 1150 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 3830 1350 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3830 1350 50  0001 C CNN
 F 3 "~" H 3900 1350 50  0001 C CNN
 	1    3900 1350
 	1    0    0    -1  
@@ -538,7 +538,7 @@ U 1 1 617921F9
 P 4300 1350
 F 0 "R13" V 4400 1400 50  0000 L CNN
 F 1 "150K" V 4400 1150 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 4230 1350 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 4230 1350 50  0001 C CNN
 F 3 "~" H 4300 1350 50  0001 C CNN
 	1    4300 1350
 	1    0    0    -1  
@@ -564,7 +564,7 @@ U 1 1 6179220D
 P 4600 1350
 F 0 "R14" V 4700 1400 50  0000 L CNN
 F 1 "150K" V 4700 1150 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 4530 1350 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 4530 1350 50  0001 C CNN
 F 3 "~" H 4600 1350 50  0001 C CNN
 	1    4600 1350
 	1    0    0    -1  
@@ -1239,7 +1239,7 @@ F 1 "74LS08" H 2400 3350 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 2100 3250 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 2100 3250 50  0001 C CNN
 	3    2100 3250
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L power:GNDD #PWR059
@@ -1329,7 +1329,7 @@ U 1 1 658A02CC
 P 8600 5450
 F 0 "R15" V 8700 5450 50  0000 L CNN
 F 1 "150K" V 8500 5350 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 8530 5450 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 8530 5450 50  0001 C CNN
 F 3 "~" H 8600 5450 50  0001 C CNN
 	1    8600 5450
 	-1   0    0    1   
@@ -1350,7 +1350,7 @@ U 1 1 65184E6B
 P 8350 5300
 F 0 "R16" V 8450 5300 50  0000 L CNN
 F 1 "1K" V 8450 5150 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 8280 5300 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 8280 5300 50  0001 C CNN
 F 3 "~" H 8350 5300 50  0001 C CNN
 	1    8350 5300
 	0    1    1    0   
@@ -1568,7 +1568,7 @@ U 1 1 62E0CAAF
 P 10400 4450
 F 0 "D20" H 10400 4234 50  0000 C CNN
 F 1 "1N4148" H 10400 4325 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P2.54mm_Vertical_AnodeUp" H 10400 4275 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 10400 4275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10400 4450 50  0001 C CNN
 	1    10400 4450
 	-1   0    0    1   
@@ -1583,7 +1583,7 @@ U 1 1 62D9C45F
 P 9750 5950
 F 0 "D9" H 9750 5734 50  0000 C CNN
 F 1 "1N4148" H 9750 5825 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P2.54mm_Vertical_AnodeUp" H 9750 5775 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 9750 5775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9750 5950 50  0001 C CNN
 	1    9750 5950
 	-1   0    0    1   
@@ -1630,7 +1630,7 @@ F 1 "74LS32" H 4700 5950 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 4450 5850 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74LS32" H 4450 5850 50  0001 C CNN
 	3    4450 5850
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 Wire Wire Line
 	4850 5100 4850 4850
@@ -1726,7 +1726,7 @@ U 1 1 61EFD7F7
 P 7750 5150
 F 0 "D11" H 8000 5100 50  0000 C CNN
 F 1 "1N4148" H 7550 5100 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 7750 4975 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P12.70mm_Horizontal" H 7750 4975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 5150 50  0001 C CNN
 	1    7750 5150
 	-1   0    0    1   
@@ -1836,7 +1836,7 @@ U 1 1 61E0FF68
 P 7750 4350
 F 0 "D21" H 8000 4300 50  0000 C CNN
 F 1 "1N4148" H 7550 4300 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P2.54mm_Vertical_AnodeUp" H 7750 4175 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 7750 4175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 4350 50  0001 C CNN
 	1    7750 4350
 	-1   0    0    1   
@@ -1849,7 +1849,7 @@ U 1 1 61DF07F3
 P 7750 5250
 F 0 "D10" H 8000 5200 50  0000 C CNN
 F 1 "1N4148" H 7550 5200 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 7750 5075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal" H 7750 5075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 5250 50  0001 C CNN
 	1    7750 5250
 	-1   0    0    1   
