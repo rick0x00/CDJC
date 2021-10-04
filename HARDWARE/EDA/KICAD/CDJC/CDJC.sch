@@ -1118,7 +1118,7 @@ F 1 "74LS32" H 1500 4400 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 1500 4200 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74LS32" H 1500 4200 50  0001 C CNN
 	4    1500 4200
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L 74xx:74LS08 U3
@@ -1200,12 +1200,12 @@ $EndComp
 $Comp
 L 74xx:74LS08 U3
 U 3 1 6161ACE7
-P 1700 4750
-F 0 "U3" H 1950 4650 50  0000 C CNN
-F 1 "74LS08" H 2000 4850 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 1700 4750 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 1700 4750 50  0001 C CNN
-	3    1700 4750
+P 5950 5750
+F 0 "U3" H 6200 5650 50  0000 C CNN
+F 1 "74LS08" H 6250 5850 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 5950 5750 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 5950 5750 50  0001 C CNN
+	3    5950 5750
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1918,23 +1918,23 @@ $EndComp
 $Comp
 L 74xx:74LS08 U3
 U 4 1 615394F6
-P 1700 6100
-F 0 "U3" H 1950 6000 50  0000 C CNN
-F 1 "74LS08" H 2000 6200 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 1700 6100 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 1700 6100 50  0001 C CNN
-	4    1700 6100
+P 1700 4750
+F 0 "U3" H 1950 4650 50  0000 C CNN
+F 1 "74LS08" H 2000 4850 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 1700 4750 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 1700 4750 50  0001 C CNN
+	4    1700 4750
 	1    0    0    1   
 $EndComp
 $Comp
 L 74xx:74LS08 U3
 U 2 1 615E6CB5
-P 5950 5750
-F 0 "U3" H 6200 5650 50  0000 C CNN
-F 1 "74LS08" H 6250 5850 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 5950 5750 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 5950 5750 50  0001 C CNN
-	2    5950 5750
+P 1700 6100
+F 0 "U3" H 1950 6000 50  0000 C CNN
+F 1 "74LS08" H 2000 6200 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 1700 6100 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 1700 6100 50  0001 C CNN
+	2    1700 6100
 	1    0    0    -1  
 $EndComp
 $Comp
