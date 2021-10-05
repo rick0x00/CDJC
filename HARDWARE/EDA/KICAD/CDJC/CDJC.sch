@@ -1833,23 +1833,23 @@ $EndComp
 $Comp
 L 74xx:74LS08 U6
 U 3 1 625C9DDD
-P 5300 4350
-F 0 "U6" H 5550 4250 50  0000 C CNN
-F 1 "74LS08" H 5600 4450 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 5300 4350 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 5300 4350 50  0001 C CNN
-	3    5300 4350
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS08 U6
-U 1 1 625C9DD1
 P 10850 850
 F 0 "U6" H 11100 750 50  0000 C CNN
 F 1 "74LS08" H 11150 950 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 10850 850 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 10850 850 50  0001 C CNN
-	1    10850 850 
+	3    10850 850 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74LS08 U6
+U 1 1 625C9DD1
+P 5300 4350
+F 0 "U6" H 5550 4250 50  0000 C CNN
+F 1 "74LS08" H 5600 4450 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 5300 4350 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 5300 4350 50  0001 C CNN
+	1    5300 4350
 	1    0    0    1   
 $EndComp
 $Comp
