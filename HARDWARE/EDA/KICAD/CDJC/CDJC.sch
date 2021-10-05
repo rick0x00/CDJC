@@ -1368,7 +1368,7 @@ F 1 "74LS08" H 4650 4500 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 4400 4650 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 4400 4650 50  0001 C CNN
 	4    4400 4650
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L 74xx:74LS08 U6
@@ -1537,7 +1537,7 @@ F 1 "74LS32" H 5400 4850 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 5150 4750 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74LS32" H 5150 4750 50  0001 C CNN
 	3    5150 4750
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4000 5200 4100 5200
@@ -1652,7 +1652,7 @@ U 1 1 61EFD7F7
 P 7750 5150
 F 0 "D11" H 8000 5100 50  0000 C CNN
 F 1 "1N4148" H 7550 5100 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P12.70mm_Horizontal" H 7750 4975 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 7750 4975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 5150 50  0001 C CNN
 	1    7750 5150
 	-1   0    0    1   
@@ -1775,7 +1775,7 @@ U 1 1 61DF07F3
 P 7750 5250
 F 0 "D10" H 8000 5200 50  0000 C CNN
 F 1 "1N4148" H 7550 5200 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal" H 7750 5075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 7750 5075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 5250 50  0001 C CNN
 	1    7750 5250
 	-1   0    0    1   
