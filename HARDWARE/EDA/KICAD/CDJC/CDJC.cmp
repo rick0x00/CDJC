@@ -1,0 +1,443 @@
+Cmp-Mod V01 Created by PcbNew   date = Thu Oct  7 11:47:24 2021
+
+BeginCmp
+TimeStamp = 615ECFF3
+Path = /61E0FF68
+Reference = D21;
+ValeurCmp = 1N4148;
+IdModule  = Diode_THT:D_DO-34_SOD68_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6161FD3A
+Path = /61EC8436
+Reference = D19;
+ValeurCmp = 1N4148;
+IdModule  = Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6161FCD4
+Path = /61ECF780
+Reference = D18;
+ValeurCmp = 1N4148;
+IdModule  = Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6161FFEC
+Path = /61ED6CD7
+Reference = D17;
+ValeurCmp = 1N4148;
+IdModule  = Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6161FF89
+Path = /61EDE46E
+Reference = D16;
+ValeurCmp = 1N4148;
+IdModule  = Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6161FDA6
+Path = /61EE5DC5
+Reference = D15;
+ValeurCmp = 1N4148;
+IdModule  = Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6161FF1D
+Path = /61EED895
+Reference = D14;
+ValeurCmp = 1N4148;
+IdModule  = Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6161FE9C
+Path = /61EF55D5
+Reference = D13;
+ValeurCmp = 1N4148;
+IdModule  = Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6161FE2D
+Path = /61EFD7F7
+Reference = D11;
+ValeurCmp = 1N4148;
+IdModule  = Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 615E9770
+Path = /61DF07F3
+Reference = D10;
+ValeurCmp = 1N4148;
+IdModule  = Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 615E6DDE
+Path = /61622B3E
+Reference = U4;
+ValeurCmp = 74LS08;
+IdModule  = Package_DIP:DIP-14_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 615E6E44
+Path = /61A87767
+Reference = U3;
+ValeurCmp = 74LS08;
+IdModule  = Package_DIP:DIP-14_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 615E6A90
+Path = /615E6CAE
+Reference = U1;
+ValeurCmp = 74LS04;
+IdModule  = Package_DIP:DIP-14_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 615C9AA6
+Path = /61507AB1
+Reference = SW1;
+ValeurCmp = B-SET;
+IdModule  = Button_Switch_THT:SW_DIP_SPSTx03_Slide_9.78x9.8mm_W7.62mm_P2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6154D745
+Path = /61518A6D
+Reference = R6;
+ValeurCmp = 150K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61546D32
+Path = /6151833C
+Reference = R5;
+ValeurCmp = 150K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6154E8F3
+Path = /6150FDF8
+Reference = R4;
+ValeurCmp = 150K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61563511
+Path = /61508F64
+Reference = R3;
+ValeurCmp = 300K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61546DC3
+Path = /61508D65
+Reference = R2;
+ValeurCmp = 300K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 615476A3
+Path = /61508321
+Reference = R1;
+ValeurCmp = 300K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 615BD32F
+Path = /62DF9D73
+Reference = D12;
+ValeurCmp = 1N4148;
+IdModule  = Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 615BD4A0
+Path = /64789354
+Reference = U7;
+ValeurCmp = 74LS32;
+IdModule  = Package_DIP:DIP-14_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 615BD2CF
+Path = /648E74BF
+Reference = U5;
+ValeurCmp = 74LS08;
+IdModule  = Package_DIP:DIP-14_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 616200B4
+Path = /61832AC8
+Reference = U9;
+ValeurCmp = 4017;
+IdModule  = Package_DIP:DIP-16_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 615BD221
+Path = /61792206
+Reference = D8;
+ValeurCmp = MRLM;
+IdModule  = LED_THT:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 615EFB5D
+Path = /617921F2
+Reference = D7;
+ValeurCmp = ELM;
+IdModule  = LED_THT:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 615EE100
+Path = /6178CA9D
+Reference = D6;
+ValeurCmp = LBM;
+IdModule  = LED_THT:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 615EDFE9
+Path = /61788A22
+Reference = D5;
+ValeurCmp = NBM;
+IdModule  = LED_THT:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 615EDFB3
+Path = /6173FD3A
+Reference = D4;
+ValeurCmp = FBM;
+IdModule  = LED_THT:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 615BD0BB
+Path = /65124386
+Reference = Q1;
+ValeurCmp = BC549;
+IdModule  = Package_TO_SOT_THT:TO-92_Inline;
+EndCmp
+
+BeginCmp
+TimeStamp = 615BCEBF
+Path = /65184E6B
+Reference = R16;
+ValeurCmp = 1K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 615EE080
+Path = /6178CAA4
+Reference = R12;
+ValeurCmp = 150K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 615BCDFC
+Path = /651B7280
+Reference = R17;
+ValeurCmp = 300K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 615EE13A
+Path = /6173FD41
+Reference = R7;
+ValeurCmp = 150K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 615EE023
+Path = /617921F9
+Reference = R13;
+ValeurCmp = 150K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 615BCD05
+Path = /62E0CAAF
+Reference = D20;
+ValeurCmp = 1N4148;
+IdModule  = Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 615BCCAB
+Path = /62D9C45F
+Reference = D9;
+ValeurCmp = 1N4148;
+IdModule  = Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 615BCBEF
+Path = /658A02CC
+Reference = R15;
+ValeurCmp = 150K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 615EE0C2
+Path = /61788A29
+Reference = R10;
+ValeurCmp = 150K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 615BCB3B
+Path = /6179220D
+Reference = R14;
+ValeurCmp = 150K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61614260
+Path = /646F2D18
+Reference = U6;
+ValeurCmp = 74LS08;
+IdModule  = Package_DIP:DIP-14_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 6153C1D4
+Path = /62F4B13D
+Reference = R11;
+ValeurCmp = 300K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61555A18
+Path = /6186C4E3
+Reference = C10;
+ValeurCmp = 100nF 63V;
+IdModule  = Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6153C147
+Path = /62F38E35
+Reference = R9;
+ValeurCmp = 300K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61557D32
+Path = /62EF0AAE
+Reference = R8;
+ValeurCmp = 300K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 616142D8
+Path = /64940817
+Reference = U8;
+ValeurCmp = 74LS32;
+IdModule  = Package_DIP:DIP-14_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 6156F1DE
+Path = /61F74D5B
+Reference = J5;
+ValeurCmp = BIT_OUT;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 615E6A2D
+Path = /615E6CA6
+Reference = U2;
+ValeurCmp = 74LS32;
+IdModule  = Package_DIP:DIP-14_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 61562233
+Path = /618D26E6
+Reference = J4;
+ValeurCmp = POWER_OUT;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61562412
+Path = /6196A891
+Reference = J2;
+ValeurCmp = COM_OUT;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6153C259
+Path = /6191B24D
+Reference = J1;
+ValeurCmp = COM_IN;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6153C34A
+Path = /619C2F15
+Reference = J3;
+ValeurCmp = POWER_IN;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6153BBAF
+Path = /61518A60
+Reference = D3;
+ValeurCmp = FB;
+IdModule  = LED_THT:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6153B5AF
+Path = /6151832F
+Reference = D2;
+ValeurCmp = NB;
+IdModule  = LED_THT:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6154DD10
+Path = /6150E673
+Reference = D1;
+ValeurCmp = LB;
+IdModule  = LED_THT:LED_D3.0mm;
+EndCmp
+
+EndListe
