@@ -1652,7 +1652,7 @@ U 1 1 61EFD7F7
 P 7750 5150
 F 0 "D11" H 8000 5100 50  0000 C CNN
 F 1 "1N4148" H 7550 5100 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P5.08mm_Vertical_AnodeUp" H 7750 4975 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 7750 4975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 5150 50  0001 C CNN
 	1    7750 5150
 	-1   0    0    1   
@@ -1665,7 +1665,7 @@ U 1 1 61EF55D5
 P 7750 5050
 F 0 "D13" H 8000 5000 50  0000 C CNN
 F 1 "1N4148" H 7550 5000 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P5.08mm_Vertical_AnodeUp" H 7750 4875 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 7750 4875 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 5050 50  0001 C CNN
 	1    7750 5050
 	-1   0    0    1   
@@ -1678,7 +1678,7 @@ U 1 1 61EED895
 P 7750 4950
 F 0 "D14" H 8000 4900 50  0000 C CNN
 F 1 "1N4148" H 7550 4900 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P5.08mm_Vertical_AnodeUp" H 7750 4775 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 7750 4775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 4950 50  0001 C CNN
 	1    7750 4950
 	-1   0    0    1   
@@ -1704,7 +1704,7 @@ U 1 1 61EDE46E
 P 7750 4750
 F 0 "D16" H 8000 4700 50  0000 C CNN
 F 1 "1N4148" H 7550 4700 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P5.08mm_Vertical_AnodeUp" H 7750 4575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 7750 4575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 4750 50  0001 C CNN
 	1    7750 4750
 	-1   0    0    1   
@@ -1717,7 +1717,7 @@ U 1 1 61ED6CD7
 P 7750 4650
 F 0 "D17" H 8000 4600 50  0000 C CNN
 F 1 "1N4148" H 7550 4600 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P5.08mm_Vertical_AnodeUp" H 7750 4475 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 7750 4475 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 4650 50  0001 C CNN
 	1    7750 4650
 	-1   0    0    1   
@@ -1730,7 +1730,7 @@ U 1 1 61ECF780
 P 7750 4550
 F 0 "D18" H 8000 4500 50  0000 C CNN
 F 1 "1N4148" H 7550 4500 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P5.08mm_Vertical_AnodeUp" H 7750 4375 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 7750 4375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 4550 50  0001 C CNN
 	1    7750 4550
 	-1   0    0    1   
@@ -1743,7 +1743,7 @@ U 1 1 61EC8436
 P 7750 4450
 F 0 "D19" H 8000 4400 50  0000 C CNN
 F 1 "1N4148" H 7550 4400 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P5.08mm_Vertical_AnodeUp" H 7750 4275 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 7750 4275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 4450 50  0001 C CNN
 	1    7750 4450
 	-1   0    0    1   
@@ -1775,7 +1775,7 @@ U 1 1 61DF07F3
 P 7750 5250
 F 0 "D10" H 8000 5200 50  0000 C CNN
 F 1 "1N4148" H 7550 5200 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P5.08mm_Vertical_AnodeUp" H 7750 5075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 7750 5075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 5250 50  0001 C CNN
 	1    7750 5250
 	-1   0    0    1   

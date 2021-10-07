@@ -1762,7 +1762,7 @@ U 1 1 61E0FF68
 P 7750 4350
 F 0 "D21" H 8000 4300 50  0000 C CNN
 F 1 "1N4148" H 7550 4300 50  0000 C CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal" H 7750 4175 50  0001 C CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P12.70mm_Horizontal" H 7750 4175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 4350 50  0001 C CNN
 	1    7750 4350
 	-1   0    0    1   
